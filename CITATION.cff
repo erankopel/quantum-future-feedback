@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "quantum-future-feedback: code and machine-verified certificate"
+authors:
+  - family-names: Kopel
+    given-names: Eran
+    orcid: "https://orcid.org/0000-0003-4657-8636"
+    affiliation: "Tel Aviv University"
+license: MIT
+version: 1.0.0
+date-released: 2026-07-13
+preferred-citation:
+  type: article
+  title: "Stable, informative, coherent, and non-entanglement-breaking fixed points of multi-time quantum processes"
+  authors:
+    - family-names: Kopel
+      given-names: Eran
+      orcid: "https://orcid.org/0000-0003-4657-8636"
+  year: 2026
+  journal: "arXiv preprint (quant-ph)"
