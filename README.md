@@ -4,7 +4,7 @@ Code and machine-verified certificate for the paper
 
 > **Stable, informative, coherent, and non-entanglement-breaking fixed points
 > of multi-time quantum processes**
-> Eran Kopel (Tel Aviv University) — arXiv:quant-ph (submission in preparation)
+> Eran Kopel (Tel Aviv University) — (submission in preparation)
 
 The paper studies quantum processes in which information extracted from a
 forward simulation is returned as an input to an earlier internal time of the
